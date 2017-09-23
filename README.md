@@ -4,4 +4,5 @@
 Feel free to improve my code!
 
 Copyright 2017 Wouter Gritter
+
 Code is licensed under MIT.
