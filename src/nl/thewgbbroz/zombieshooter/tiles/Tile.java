@@ -4,6 +4,11 @@ import java.awt.image.BufferedImage;
 
 import nl.thewgbbroz.zombieshooter.ImageLoader;
 
+/**
+ * @author Wouter Gritter
+ * 
+ * Copyright 2017 Wouter Gritter
+ */
 public class Tile {
 	private static Tile[] byId = new Tile[256];
 	

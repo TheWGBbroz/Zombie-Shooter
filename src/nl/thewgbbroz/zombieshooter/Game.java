@@ -11,6 +11,11 @@ import javax.swing.JPanel;
 
 import nl.thewgbbroz.zombieshooter.input.KeyHandler;
 
+/**
+ * @author Wouter Gritter
+ * 
+ * Copyright 2017 Wouter Gritter
+ */
 public class Game extends JPanel implements Runnable {
 	private static final long serialVersionUID = 1L;
 	

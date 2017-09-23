@@ -4,6 +4,11 @@ import java.awt.image.BufferedImage;
 
 import nl.thewgbbroz.zombieshooter.ImageLoader;
 
+/**
+ * @author Wouter Gritter
+ * 
+ * Copyright 2017 Wouter Gritter
+ */
 public class Item {
 	public static final Item GUN = new Item(ImageLoader.getImage("gun.png"));
 	

@@ -12,6 +12,11 @@ import nl.thewgbbroz.zombieshooter.entities.Entity;
 import nl.thewgbbroz.zombieshooter.entities.EntityPlayer;
 import nl.thewgbbroz.zombieshooter.tiles.TileMap;
 
+/**
+ * @author Wouter Gritter
+ * 
+ * Copyright 2017 Wouter Gritter
+ */
 public class World {
 	private List<Entity> entities = new ArrayList<>();
 	private EntityPlayer player;

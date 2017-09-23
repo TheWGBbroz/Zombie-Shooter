@@ -5,6 +5,11 @@ import java.awt.image.BufferedImage;
 import nl.thewgbbroz.zombieshooter.Game;
 import nl.thewgbbroz.zombieshooter.world.World;
 
+/**
+ * @author Wouter Gritter
+ * 
+ * Copyright 2017 Wouter Gritter
+ */
 public abstract class LivingEntity extends Entity {
 	protected double hp;
 	

@@ -4,6 +4,11 @@ import nl.thewgbbroz.zombieshooter.Game;
 import nl.thewgbbroz.zombieshooter.entities.Entity;
 import nl.thewgbbroz.zombieshooter.entities.EntityPlayer;
 
+/**
+ * @author Wouter Gritter
+ * 
+ * Copyright 2017 Wouter Gritter
+ */
 public class ZombieAI extends AI {
 	private static final int ZOMBIE_DAMAGE = 20;
 	

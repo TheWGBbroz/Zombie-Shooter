@@ -1,5 +1,10 @@
 package nl.thewgbbroz.zombieshooter;
 
+/**
+ * @author Wouter Gritter
+ * 
+ * Copyright 2017 Wouter Gritter
+ */
 public class Camera {
 	private double x, y;
 	

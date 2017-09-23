@@ -8,6 +8,11 @@ import java.util.Map;
 
 import javax.imageio.ImageIO;
 
+/**
+ * @author Wouter Gritter
+ * 
+ * Copyright 2017 Wouter Gritter
+ */
 public class ImageLoader {
 	private static Map<String, BufferedImage> images = new HashMap<>();
 	

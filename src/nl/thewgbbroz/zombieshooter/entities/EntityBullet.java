@@ -4,6 +4,11 @@ import nl.thewgbbroz.zombieshooter.Game;
 import nl.thewgbbroz.zombieshooter.ImageLoader;
 import nl.thewgbbroz.zombieshooter.world.World;
 
+/**
+ * @author Wouter Gritter
+ * 
+ * Copyright 2017 Wouter Gritter
+ */
 public class EntityBullet extends Entity {
 	private static final int SPEED = 10;
 	private static final int DAMAGE = 50;

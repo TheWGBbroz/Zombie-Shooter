@@ -10,6 +10,11 @@ import nl.thewgbbroz.zombieshooter.input.KeyHandler;
 import nl.thewgbbroz.zombieshooter.items.Item;
 import nl.thewgbbroz.zombieshooter.world.World;
 
+/**
+ * @author Wouter Gritter
+ * 
+ * Copyright 2017 Wouter Gritter
+ */
 public class EntityPlayer extends LivingEntity implements BulletListener {
 	private static final BufferedImage PLAYER_NO_GUN = ImageLoader.getImage("player.png");
 	private static final BufferedImage PLAYER_GUN = ImageLoader.getImage("player_gun.png");

@@ -4,6 +4,11 @@ import nl.thewgbbroz.zombieshooter.Game;
 import nl.thewgbbroz.zombieshooter.ImageLoader;
 import nl.thewgbbroz.zombieshooter.world.World;
 
+/**
+ * @author Wouter Gritter
+ * 
+ * Copyright 2017 Wouter Gritter
+ */
 public class EntityBlood extends Entity {
 	private static final int IMG_AMOUNT = 6;
 	

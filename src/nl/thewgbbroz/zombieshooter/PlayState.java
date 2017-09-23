@@ -13,6 +13,11 @@ import nl.thewgbbroz.zombieshooter.tiles.Tile;
 import nl.thewgbbroz.zombieshooter.tiles.TileMap;
 import nl.thewgbbroz.zombieshooter.world.World;
 
+/**
+ * @author Wouter Gritter
+ * 
+ * Copyright 2017 Wouter Gritter
+ */
 public class PlayState {
 	private World world;
 	private int tick;

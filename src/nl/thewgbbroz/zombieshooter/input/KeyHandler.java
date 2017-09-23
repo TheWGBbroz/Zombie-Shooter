@@ -7,6 +7,11 @@ import java.util.List;
 
 import javax.swing.JFrame;
 
+/**
+ * @author Wouter Gritter
+ * 
+ * Copyright 2017 Wouter Gritter
+ */
 public class KeyHandler {
 	private static List<Integer> pressed = new ArrayList<>();
 	private static List<Integer> released = new ArrayList<>();

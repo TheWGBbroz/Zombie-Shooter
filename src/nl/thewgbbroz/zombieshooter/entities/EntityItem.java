@@ -3,6 +3,11 @@ package nl.thewgbbroz.zombieshooter.entities;
 import nl.thewgbbroz.zombieshooter.items.Item;
 import nl.thewgbbroz.zombieshooter.world.World;
 
+/**
+ * @author Wouter Gritter
+ * 
+ * Copyright 2017 Wouter Gritter
+ */
 public class EntityItem extends Entity {
 	private Item item;
 	

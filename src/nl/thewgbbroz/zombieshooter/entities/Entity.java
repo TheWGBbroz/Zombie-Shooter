@@ -11,6 +11,11 @@ import nl.thewgbbroz.zombieshooter.ai.AI;
 import nl.thewgbbroz.zombieshooter.tiles.Tile;
 import nl.thewgbbroz.zombieshooter.world.World;
 
+/**
+ * @author Wouter Gritter
+ * 
+ * Copyright 2017 Wouter Gritter
+ */
 public abstract class Entity {
 	protected final World world;
 	protected double x, y, speed, rot;

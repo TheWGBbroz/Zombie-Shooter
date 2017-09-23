@@ -6,6 +6,11 @@ import java.util.Random;
 import nl.thewgbbroz.zombieshooter.Camera;
 import nl.thewgbbroz.zombieshooter.Game;
 
+/**
+ * @author Wouter Gritter
+ * 
+ * Copyright 2017 Wouter Gritter
+ */
 public class TileMap {
 	private final int rows, cols;
 	private final Tile[] tiles;
